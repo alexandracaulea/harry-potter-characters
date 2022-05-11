@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/harry-potter-characters/static/css/main.ac616d8f.css",
+    "main.js": "/harry-potter-characters/static/js/main.879e64e8.js",
+    "static/js/787.febbefd4.chunk.js": "/harry-potter-characters/static/js/787.febbefd4.chunk.js",
+    "static/media/harryp.woff": "/harry-potter-characters/static/media/harryp.83434b5bf4f85b2043c2.woff",
+    "static/media/harryp.woff2": "/harry-potter-characters/static/media/harryp.f7005814bca845311cee.woff2",
+    "index.html": "/harry-potter-characters/index.html",
+    "main.ac616d8f.css.map": "/harry-potter-characters/static/css/main.ac616d8f.css.map",
+    "main.879e64e8.js.map": "/harry-potter-characters/static/js/main.879e64e8.js.map",
+    "787.febbefd4.chunk.js.map": "/harry-potter-characters/static/js/787.febbefd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac616d8f.css",
+    "static/js/main.879e64e8.js"
+  ]
+}
